@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Łukasz Włodarczyk
+- 🎓 I'm studying cybersecurity at the AGH University of Krakow
+- 👀 I’m interested in penetration testing and secure software engineering
+- 💞️ I’m looking to collaborate on some interesting projects
+- ⌨️ I've been programming since the beginning of high school 
+- 🌱 Recently I’ve been learning on platforms like [TryHackMe](https://tryhackme.com/p/2k4w87ix), [Hack The Box](https://app.hackthebox.com/profile/1806584) and [Exercism](https://exercism.org/profiles/mtl5xldb) to enhance my skills
+- 📫 You can reach me by email at [cyberwlodarczyk@proton.me](mailto:cyberwlodarczyk@proton.me)
