@@ -16,12 +16,16 @@
 
 ## Skills
 
-- HTML/CSS
-- JavaScript/TypeScript
-- React
-- Go
-- C/C++
-- Python
-- SQL
-- Linux/Bash
-- CTFs
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **TypeScript**
+- **React**
+- **Go**
+- **C**
+- **C++**
+- **Python**
+- **SQL**
+- **Linux**
+- **Bash**
+- **CTF**
