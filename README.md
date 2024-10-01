@@ -16,26 +16,26 @@
 
 ## Skills
 
-### Programming Languages
+### Cybersecurity Basics
+
+- DFIR
+- Linux
+- Networking
+- Social Engineering
+- CTF
+
+### Programming
 
 - C
-- C++
 - Go
-- JavaScript
-- TypeScript
 - Python
+- Node.js
 - SQL
-- Bash
-
-### Tools and Platforms
-
-- Linux
-- Docker
-- Git
-- Wireshark
 
 ### Web Development
 
 - HTML
 - CSS
+- JavaScript
+- TypeScript
 - React
