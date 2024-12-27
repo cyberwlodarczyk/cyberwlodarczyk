@@ -7,7 +7,7 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberwlodarczyk&theme=tokyonight&layout=compact&border_color=70a5fd)](https://github.com/anuraghazra/github-readme-stats)
 
-### About Me
+## 👨🏻‍💻 About Me
 
 - 🎓 I'm studying cybersecurity at the AGH University of Krakow.
 
@@ -17,21 +17,29 @@
 
 - 🌱 I'm passionate about learning something new every day.
 
+- 📖 In my free time, I read books, exercise and explore new areas of interest.
+
 - 📫 You can reach me by email at [cyberwlodarczyk@proton.me](mailto:cyberwlodarczyk@proton.me).
 
-### Technologies
+## 🛠 Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge)
 
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-333333?logo=gnubash&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-black?logo=openai&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
